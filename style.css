@@ -1,0 +1,38 @@
+body {
+  width: 600px;
+  margin: auto;
+  margin-top: 10px;
+  padding: 0px 20px 20px 20px;
+  background-color: aliceblue;
+  border-style: solid;
+  border-width: 2px;
+  border-color: lightskyblue;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: aquamarine;
+}
+footer {
+  width: 600px;
+  margin-top: 10px;
+  background-color: darkcyan;
+}
+.text1 {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+.checkbox {
+  margin-top: 10px;
+}
+.total {
+  margin-top: 10px;
+  color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+}
